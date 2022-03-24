@@ -1,8 +1,11 @@
-#Requirements
+<h2>About App</h2>
+This app makes couple life easy. In this app two persons can create shopping list and enter the costs. The costs can be splitted into two persons or can be direct paid. For example if you did shopping for 10€ then you will see that your partner own you 5€. Or if you give 10€ direct then you will see that your partner own you 10€. 
+Moreover shopping list makes it easy for both to know what need to be buy.
+<h3>Requirements</h3>
 
-NPM, Angular, Ionic, Firebase account <br>
+NPM, Angular, Ionic and Firebase account <br>
 
-#How to use
+<h3>How to use</h3>
 
 first install ionic : `npm install -g @ionic/cli` <br>
 

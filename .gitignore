@@ -32,3 +32,9 @@ npm-debug.log*
 /www
 ## android is ignored here
 /android
+
+# Firebase
+.firebase
+*-debug.log
+.runtimeconfig.json
+/src/environments/internal.ts

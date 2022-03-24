@@ -16,3 +16,8 @@ put the firebase configuration in environment file <br>
 now serve app as `ionic serve` <br>
 
 to make android app enter `npm run prepareAndroid` or for ios `npm run prepareIos` (please note this should be done only once) <br>
+
+<h3>Firebase steps</h3>
+TODO
+
+<h2>Note never share your firebase config file or make it public, unitil you know what you doing. This app does not have authentication so someone can use your firebase</h2>

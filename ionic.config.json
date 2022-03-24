@@ -1,0 +1,7 @@
+{
+  "name": "coupleApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

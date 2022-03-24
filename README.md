@@ -12,4 +12,4 @@ put the firebase configuration in environment file <br>
 
 now serve app as `ionic serve` <br>
 
-to build an android app use instructions from https://ionicframework.com/docs/angular/your-first-app/deploying-mobile
+to make android app enter `npm run prepareAndroid` or for ios `npm run prepareIos` (please note this should be done only once) <br>

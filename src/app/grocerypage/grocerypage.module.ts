@@ -1,18 +1,18 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { TranslateModule } from '@ngx-translate/core';
-import { HomepageComponent } from './homepage.component';
+import { GrocerypageComponent } from './grocerypage.component';
 
 const routes: Routes = [
   {
     path: '',
-    component: HomepageComponent,
+    component: GrocerypageComponent,
   },
 ];
 
 @NgModule({
-  declarations: [HomepageComponent],
+  declarations: [GrocerypageComponent],
   entryComponents: [],
   imports: [RouterModule.forChild(routes), TranslateModule],
 })
-export class HomeModule {}
+export class GroceryModule {}

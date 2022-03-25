@@ -11,7 +11,8 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "prepareAndroid": "ionic build && ionic cap add android && ionic cap copy && ionic cap sync",
-    "prepareIos": "ionic build && ionic cap add ios && ionic cap copy && ionic cap sync"
+    "prepareIos": "ionic build && ionic cap add ios && ionic cap copy && ionic cap sync",
+    "syncApp": "ionic build && ionic cap copy && ionic cap sync"
   },
   "private": true,
   "dependencies": {
